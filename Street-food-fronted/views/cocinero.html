@@ -1,0 +1,53 @@
+<nav class="navbar navbar-expand-lg bg-danger">
+  <div class="container-fluid">
+    <h1 class="text-white">Street Food</h1>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav ms-auto">
+        <a class="nav-link text-white" href="#">Cerrar Sesión</a>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div class="container py-4">
+  <h2 class="text-danger mb-4 text-center">🍔 Pedidos pendientes</h2>
+
+  <!-- Mensaje cuando no hay pedidos -->
+  <div class="alert alert-danger text-center" ng-if="noHayPedidos">
+    <span>🚫 No hay pedidos pendientes ⏳</span>
+  </div>
+
+  <!-- Lista de pedidos pendientes -->
+  <div class="list-group" ng-if="!noHayPedidos">
+    <div class="list-group-item mb-3" ng-repeat="pedido in pedidosPendientes" ng-if="pedido.estado === 'pendiente'">        
+      <!-- Información del pedido -->
+      <h5 class="text-dark">Pedido {{pedido.id}}</h5>
+
+      <!-- Productos del pedido -->
+      <p><strong>Productos:</strong></p>
+      <ul>
+        <li ng-repeat="item in pedido.productos" class="mb-2">
+          <img ng-src="{{item.imagen}}" alt="{{item.nombre}}" style="width: 50px; height: 50px; object-fit: cover; margin-right: 8px;">
+          {{item.nombre}} (x{{item.cantidad}})
+        </li>
+      </ul>
+
+      <!-- Estimación de tiempo y botón para confirmar -->
+      <div>
+        <div class="form-group">
+          <label for="tiempoEstimado{{pedido.id}}">Tiempo estimado:</label>
+          <input type="number" class="form-control" id="tiempoEstimado{{pedido.id}}" ng-model="pedido.tiempoEstimado" placeholder="minutos">
+        </div>
+        <br>
+        <div class="d-flex justify-content-center m-3" style="gap: 50px;">
+          <button class="btn btn-warning" ng-click="estimarTiempo(pedido.tiempoEstimado, pedido)">Confirmar tiempo estimado</button>
+          <button class="btn btn-danger" ng-click="actualizarPedido(pedido)">Marcar como preparado</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+

@@ -1,0 +1,47 @@
+<div class="d-flex justify-content-center align-items-center min-vh-100">
+  <div class="login-container">
+    <div class="login-card">
+      <h2 class="text-center">🍔 Iniciar sesión</h2>
+      <form ng-submit="login()" ng-show="!mostrarRegistro">
+        <div class="form-group">
+          <label>Usuario</label>
+          <input type="text" ng-model="usuario.nombre" class="form-control" required>
+        </div>
+        <div class="form-group">
+          <label>Contraseña</label>
+          <input type="password" ng-model="usuario.contrasena" class="form-control" required>
+        </div>
+        <br>
+        <div class="text-center">
+          <button class="btn btn-danger btn-block">Ingresar</button>
+          <button type="button" class="btn btn-warning btn-block" ng-click="mostrarRegistro = true">Registrarse</button>
+        </div>
+      </form>
+
+      <form ng-submit="registrar()" ng-show="mostrarRegistro">
+        <div class="form-group">
+          <label>Nuevo usuario</label>
+          <input type="text" ng-model="nuevoUsuario.nombre" class="form-control" required>
+        </div>
+        <div class="form-group">
+          <label>Contraseña</label>
+          <input type="password" ng-model="nuevoUsuario.contrasena" class="form-control" required>
+        </div>
+        <div class="form-group">
+          <label>Rol</label>
+          <select ng-model="nuevoUsuario.rol" class="form-control" required>
+            <option value="" selected disabled>-Seleccione-</option>
+            <option value="cliente">Cliente</option>
+            <option value="cocinero">Cocinero</option>
+            <option value="domiciliario">Domiciliario</option>
+          </select>
+        </div>
+        <br>
+        <div class="text-center">
+          <button class="btn btn-warning btn-block" ng-click="registrar()">Registrarse</button>
+          <button type="button" class="btn btn-secondary btn-block" ng-click="mostrarRegistro = false">Cancelar</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

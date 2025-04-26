@@ -1,0 +1,39 @@
+<nav class="navbar navbar-expand-lg bg-danger">
+  <div class="container-fluid">
+    <h1 class="text-white">Street Food</h1>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav ms-auto">
+        <a class="nav-link text-white" href="#">Cerrar Sesión</a>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div class="container py-4">
+  <h3 class="text-danger mb-4 text-center">🍔 Pedidos a llevar</h3>
+
+  <div class="alert alert-danger text-center" ng-if="noHayPedidos">
+    <span>🚫 No hay pedidos pendientes ⏳</span>
+  </div>
+
+  <div class="list-group">
+    <div class="list-group-item mb-3" ng-repeat="pedido in pedidosPreparados">
+      <p><strong>ID:</strong> {{pedido.id}}</p>
+      <p><strong>Productos:</strong></p>
+      <ul>
+        <li ng-repeat="prod in pedido.productos" class="d-flex align-items-center mb-2">
+          <img ng-src="{{prod.imagen}}" alt="{{prod.nombre}}" style="width: 50px; height: 50px; object-fit: cover; margin-right: 8px;">
+          {{prod.nombre}} (x{{prod.cantidad}})
+        </li>      
+      </ul>
+      <p><strong>Tiempo estimado:</strong> {{pedido.tiempoEstimado}} minutos</p>
+      <div class="d-flex justify-content-center m-3" style="gap: 50px;">
+        <button class="btn btn-warning" ng-click="llevarPedido(pedido)">Llevar pedido</button>
+        <button class="btn btn-danger" ng-click="entregarPedido(pedido)">Entregar pedido</button>
+      </div>
+    </div>
+  </div>
+</div>

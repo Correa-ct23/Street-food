@@ -1,0 +1,92 @@
+<nav class="navbar navbar-expand-lg bg-danger">
+  <div class="container-fluid">
+    <h1 class="text-white">Street Food</h1>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav ms-auto">
+        <a class="nav-link text-white" href="" ng-click="logout()">Cerrar Sesión</a>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div class="container py-4">
+  <h2 class="text-danger mb-4 text-center">🍔 Productos disponibles</h2>
+
+  <div class="row">
+    <div class="col-md-4 mb-4" ng-repeat="producto in productos">
+      <div class="card h-100 shadow-sm">
+        <div class="producto-img-container">
+          <img ng-src="{{producto.imagen}}" class="producto-img img-fluid" alt="{{producto.nombre}}">
+        </div>
+        <div class="card-body text-center">
+          <h5 class="card-title">{{producto.nombre}}</h5>
+          <p class="card-text text-success font-weight-bold">${{producto.precio}}</p>
+          <button class="btn btn-danger" ng-click="agregarAlCarrito(producto)">Añadir al carrito</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr>
+  <div ng-show="carrito.length > 0">
+    <h4 class="text-center">🛒 Carrito de compras</h4>
+    <ul class="list-group mb-3">
+      <li class="list-group-item d-flex justify-content-between align-items-center" ng-repeat="item in carrito">
+        {{item.nombre}} - ${{item.precio}} <span class="badge bg-secondary">x{{item.cantidad}}</span>
+        <button class="btn btn-sm btn-outline-danger" ng-click="eliminarDelCarrito(item)">Eliminar</button>
+      </li>
+      <li class="list-group-item d-flex justify-content-between">
+        <strong>Total:</strong>
+        <strong>${{obtenerTotal()}}</strong>
+      </li>
+    </ul>
+    <br><hr>
+    <div class="d-flex justify-content-center align-items-center" style="height: 50vh;">
+      <div class="text-center">
+        <h5 class="mb-4">Método de pago</h5>
+    
+        <div class="form-check form-check-inline">
+          <input type="radio" class="form-check-input" ng-model="metodoPago" value="Efectivo" id="efectivo">
+          <label for="efectivo" class="form-check-label">Efectivo</label>
+        </div>
+    
+        <div class="form-check form-check-inline">
+          <input type="radio" class="form-check-input" ng-model="metodoPago" value="PSE" id="pse">
+          <label for="pse" class="form-check-label">PSE</label>
+        </div>
+    
+        <div class="mt-4">
+          <button class="btn btn-danger" ng-click="pagar()">Pagar</button>
+        </div>
+      </div>
+    </div>    
+  </div>
+  <!-- Mostrar tiempo estimado, si está disponible -->
+  <div class="text-center">
+    <table class="table table-bordered table-striped" ng-if="pago">
+      <thead>
+        <tr>
+          <th>ID del Pedido</th>
+          <th>Tiempo Estimado de Preparación</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="pedido in pedidosPendientes">
+          <td>{{pedido.id}}</td>
+          <td>
+            <h5 class="text-danger" ng-if="!pedido.tiempoEstimado">
+              🕑 Calculando tiempo estimado...
+            </h5>
+            <h5 class="text-danger" ng-if="pedido.tiempoEstimado">
+              🕑 Tiempo estimado: 
+              <span class="text-warning">{{pedido.tiempoEstimado}} minutos.</span>
+            </h5>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
