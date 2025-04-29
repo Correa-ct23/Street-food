@@ -11,8 +11,7 @@ angular.module('miApp')
 
   $scope.carrito = [];
   $scope.metodoPago = 'Efectivo';
-  $scope.pagoRealizado = false;
-  $scope.pago=false;
+  $scope.pedidos=PedidoService.getPedidos();
   $scope.pedidosPendientes = [];
 
   // Función para agregar productos al carrito
@@ -61,18 +60,19 @@ angular.module('miApp')
       alert('Pago en efectivo confirmado');
     }
 
+    var usuarioActual = AuthService.getUsuario();
+
     // Crear el nuevo pedido
     var nuevoPedido = {
       id: Date.now(), // ID único basado en la fecha
       productos: angular.copy($scope.carrito), // Copiar el carrito para enviarlo
       metodoPago: $scope.metodoPago,
       estado: 'pendiente', // Estado del pedido
-      tiempoEstimado: null // Inicialmente no se tiene un tiempo estimado
+      tiempoEstimado: null, // Inicialmente no se tiene un tiempo estimado
+      direccion: usuarioActual.direccion
     };
 
     PedidoService.addPedido(nuevoPedido);
-    $scope.pago=true;
-
     // Vaciar el carrito y resetear el método de pago
     $scope.restablecerValores();
   };

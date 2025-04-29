@@ -15,6 +15,14 @@ angular.module('miApp')
           pedidos[i] = pedidoActualizado;
         }
       }
+    },
+    eliminarPedido: function(idPedido) { 
+      for (var i = 0; i < pedidos.length; i++) {
+        if (pedidos[i].id === idPedido) {
+          pedidos.splice(i, 1); // elimina el pedido del array
+          break;
+        }
+      }
     }
   };
 });

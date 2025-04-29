@@ -65,8 +65,8 @@
     </div>    
   </div>
   <!-- Mostrar tiempo estimado, si está disponible -->
-  <div class="text-center">
-    <table class="table table-bordered table-striped" ng-if="pago">
+  <div class="text-center" ng-show="pedidos.length > 0">
+    <table class="table table-bordered table-striped" >
       <thead>
         <tr>
           <th>ID del Pedido</th>

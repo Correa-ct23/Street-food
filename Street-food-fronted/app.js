@@ -17,9 +17,9 @@ angular.module('miApp', ['ngRoute'])
       templateUrl: 'views/domiciliario.html',
       controller: 'DomiciliarioController'
     })
-    .when('/carrito', {
-      templateUrl: 'views/carrito.html',
-      controller: 'CarritoController'
+    .when('/admin', {
+      templateUrl: 'views/admin.html',
+      controller: 'AdminController'
     })
     .otherwise({
       redirectTo: '/'

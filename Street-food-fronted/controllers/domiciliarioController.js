@@ -20,8 +20,13 @@ angular.module('miApp')
 
   // Función para entregar el pedido
   $scope.entregarPedido = function(pedido) {
-    pedido.estado = 'entregado'; // Cambia el estado del pedido a "entregado"
-    PedidoService.actualizarPedido(pedido);
+    PedidoService.eliminarPedido(pedido.id);
     $scope.pedidosPreparados = $scope.pedidosPreparados.filter(p => p.id !== pedido.id);
+    alert('Pedido entregado exitosamente ✅');
+  };
+
+  $scope.logout = function() {
+    AuthService.logout();
+    $location.path('/');  // Redirige a la página de login
   };
 });
