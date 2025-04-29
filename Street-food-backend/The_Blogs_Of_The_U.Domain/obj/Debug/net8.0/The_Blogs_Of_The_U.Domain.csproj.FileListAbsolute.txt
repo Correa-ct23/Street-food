@@ -1,0 +1,39 @@
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.deps.json
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.pdb
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.csproj.AssemblyReference.cache
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.AssemblyInfoInputs.cache
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.AssemblyInfo.cs
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.csproj.CoreCompileInputs.cache
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.sourcelink.json
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\refint\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.pdb
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\ref\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.csproj.AssemblyReference.cache
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.AssemblyInfoInputs.cache
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.AssemblyInfo.cs
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.csproj.CoreCompileInputs.cache
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.sourcelink.json
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\refint\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.pdb
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.deps.json
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.pdb
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\ref\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Domain\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.deps.json
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Domain\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Domain\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.pdb
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.csproj.AssemblyReference.cache
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.AssemblyInfoInputs.cache
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.AssemblyInfo.cs
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.csproj.CoreCompileInputs.cache
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.sourcelink.json
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\refint\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\The_Blogs_Of_The_U.Domain.pdb
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Domain\obj\Debug\net8.0\ref\The_Blogs_Of_The_U.Domain.dll

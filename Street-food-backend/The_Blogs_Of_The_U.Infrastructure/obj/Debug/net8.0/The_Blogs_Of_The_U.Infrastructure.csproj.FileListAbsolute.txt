@@ -1,0 +1,48 @@
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.deps.json
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.pdb
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.pdb
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.AssemblyInfo.cs
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.sourcelink.json
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blog.B2A10DCB.Up2Date
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\refint\The_Blogs_Of_The_U.Infrastructure.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.pdb
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\ref\The_Blogs_Of_The_U.Infrastructure.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.AssemblyInfo.cs
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.sourcelink.json
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\refint\The_Blogs_Of_The_U.Infrastructure.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.pdb
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.deps.json
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.pdb
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.pdb
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blog.B2A10DCB.Up2Date
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\ref\The_Blogs_Of_The_U.Infrastructure.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.deps.json
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.pdb
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.pdb
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.AssemblyInfo.cs
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.sourcelink.json
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blog.B2A10DCB.Up2Date
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\refint\The_Blogs_Of_The_U.Infrastructure.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.pdb
+C:\Users\janie\source\repos\Street-food\Street-food-backend\The_Blogs_Of_The_U.Infrastructure\obj\Debug\net8.0\ref\The_Blogs_Of_The_U.Infrastructure.dll

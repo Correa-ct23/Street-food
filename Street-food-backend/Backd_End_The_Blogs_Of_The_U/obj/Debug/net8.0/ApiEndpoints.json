@@ -1,0 +1,184 @@
+[
+  {
+    "ContainingType": "Backd_End_The_Blogs_Of_The_U.Controllers.AutenticacionController",
+    "Method": "getAccesToken",
+    "RelativePath": "Autenticacion/get-token",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "access",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backd_End_The_Blogs_Of_The_U.Controllers.ReviewsController",
+    "Method": "GetAllReviews",
+    "RelativePath": "Reviews/get-all-reviews",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backd_End_The_Blogs_Of_The_U.Controllers.RolesController",
+    "Method": "CreateRole",
+    "RelativePath": "Roles/create-role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "The_Blogs_Of_The_U.Domain.Entities.Roles",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backd_End_The_Blogs_Of_The_U.Controllers.RolesController",
+    "Method": "GetAllRoles",
+    "RelativePath": "Roles/get-all-roles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backd_End_The_Blogs_Of_The_U.Controllers.SectionController",
+    "Method": "CreateSection",
+    "RelativePath": "Section/create-sections",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sections",
+        "Type": "The_Blogs_Of_The_U.Domain.Entities.Sections",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backd_End_The_Blogs_Of_The_U.Controllers.SectionController",
+    "Method": "GetAllSections",
+    "RelativePath": "Section/get-all-sections",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backd_End_The_Blogs_Of_The_U.Controllers.TestController",
+    "Method": "TestConnections",
+    "RelativePath": "Test/test-connections",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backd_End_The_Blogs_Of_The_U.Controllers.UserController",
+    "Method": "CreateUser",
+    "RelativePath": "User/create-user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "The_Blogs_Of_The_U.Infrastructure.Dtos.CreateUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backd_End_The_Blogs_Of_The_U.Controllers.UserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "User/get-all-users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backd_End_The_Blogs_Of_The_U.Controllers.UserController",
+    "Method": "GetMyClients",
+    "RelativePath": "User/get-my-clients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backd_End_The_Blogs_Of_The_U.Controllers.UserController",
+    "Method": "GetRolUser",
+    "RelativePath": "User/get-user-rol",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userEmail",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backd_End_The_Blogs_Of_The_U.Controllers.UserController",
+    "Method": "PasswordRecovery",
+    "RelativePath": "User/password-recovery",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backd_End_The_Blogs_Of_The_U.Controllers.UserController",
+    "Method": "UserAccessValidation",
+    "RelativePath": "User/user-access-validation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

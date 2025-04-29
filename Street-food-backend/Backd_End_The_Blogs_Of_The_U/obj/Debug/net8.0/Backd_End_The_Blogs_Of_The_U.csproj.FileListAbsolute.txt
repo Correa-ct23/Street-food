@@ -1,0 +1,228 @@
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\appsettings.json
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.exe
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.deps.json
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.runtimeconfig.json
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.pdb
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Balivo.SendInBlue.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Dapper.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\JsonSubTypes.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\SendInBlue.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\sib_api_v3_sdk.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.pdb
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.pdb
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.csproj.AssemblyReference.cache
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.AssemblyInfoInputs.cache
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.AssemblyInfo.cs
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.csproj.CoreCompileInputs.cache
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.sourcelink.json
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets\msbuild.Backd_End_The_Blogs_Of_The_U.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets\msbuild.build.Backd_End_The_Blogs_Of_The_U.props
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Backd_End_The_Blogs_Of_The_U.props
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Backd_End_The_Blogs_Of_The_U.props
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\scopedcss\bundle\Backd_End_The_Blogs_Of_The_U.styles.css
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_En.03EE83D0.Up2Date
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\refint\Backd_End_The_Blogs_Of_The_U.dll
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.pdb
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.genruntimeconfig.cache
+C:\Users\janie\Source\Repos\Book_Me_In_Style\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\ref\Backd_End_The_Blogs_Of_The_U.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.csproj.AssemblyReference.cache
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.AssemblyInfoInputs.cache
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.AssemblyInfo.cs
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.csproj.CoreCompileInputs.cache
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.sourcelink.json
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\refint\Backd_End_The_Blogs_Of_The_U.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.pdb
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\appsettings.json
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.exe
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.deps.json
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.runtimeconfig.json
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.pdb
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Balivo.SendInBlue.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Dapper.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\JsonSubTypes.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\SendInBlue.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\sib_api_v3_sdk.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.dll
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.pdb
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.pdb
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets\msbuild.Backd_End_The_Blogs_Of_The_U.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets\msbuild.build.Backd_End_The_Blogs_Of_The_U.props
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Backd_End_The_Blogs_Of_The_U.props
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Backd_End_The_Blogs_Of_The_U.props
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\scopedcss\bundle\Backd_End_The_Blogs_Of_The_U.styles.css
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_En.03EE83D0.Up2Date
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.genruntimeconfig.cache
+C:\Users\janie\source\repos\Book_Me_In_Style - Copy\Backd_End_The_Blogs_Of_The_U\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\ref\Backd_End_The_Blogs_Of_The_U.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\appsettings.json
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.exe
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.deps.json
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.runtimeconfig.json
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.pdb
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Balivo.SendInBlue.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Dapper.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\JsonSubTypes.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\SendInBlue.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\sib_api_v3_sdk.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\The_Blogs_Of_The_U.Domain.pdb
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\bin\Debug\net8.0\The_Blogs_Of_The_U.Infrastructure.pdb
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.csproj.AssemblyReference.cache
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.AssemblyInfoInputs.cache
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.AssemblyInfo.cs
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.csproj.CoreCompileInputs.cache
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.sourcelink.json
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets\msbuild.Backd_End_The_Blogs_Of_The_U.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets\msbuild.build.Backd_End_The_Blogs_Of_The_U.props
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Backd_End_The_Blogs_Of_The_U.props
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Backd_End_The_Blogs_Of_The_U.props
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\scopedcss\bundle\Backd_End_The_Blogs_Of_The_U.styles.css
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_En.03EE83D0.Up2Date
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\refint\Backd_End_The_Blogs_Of_The_U.dll
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.pdb
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\Backd_End_The_Blogs_Of_The_U.genruntimeconfig.cache
+C:\Users\janie\source\repos\Street-food\Street-food-backend\Backd_End_The_Blogs_Of_The_U\obj\Debug\net8.0\ref\Backd_End_The_Blogs_Of_The_U.dll
