@@ -79,6 +79,15 @@ app.UseHttpsRedirection(); // Seguridad: Redirección a HTTPS
 
 app.UseCors("AllowAllOrigins"); // Política CORS
 
+// ——————————————
+// Servir el front-end estático
+app.UseDefaultFiles();    // Busca wwwroot/index.html por defecto
+app.UseStaticFiles();     // Sirve todos los archivos estáticos en wwwroot
+
+// Si la ruta no coincide con un controlador, devolvemos index.html
+app.MapFallbackToFile("index.html");
+// ——————————————
+
 /**************************************************************
  * MIDDLEWARES DE SEGURIDAD - COMENTADOS
  **************************************************************/

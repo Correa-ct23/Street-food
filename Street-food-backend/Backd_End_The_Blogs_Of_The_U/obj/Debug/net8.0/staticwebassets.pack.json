@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\controllers\\adminController.js",
+      "PackagePath": "staticwebassets\\controllers\\adminController.js"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\controllers\\clienteController.js",
+      "PackagePath": "staticwebassets\\controllers\\clienteController.js"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\controllers\\cocineroController.js",
+      "PackagePath": "staticwebassets\\controllers\\cocineroController.js"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\controllers\\domiciliarioController.js",
+      "PackagePath": "staticwebassets\\controllers\\domiciliarioController.js"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\controllers\\loginController.js",
+      "PackagePath": "staticwebassets\\controllers\\loginController.js"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\img\\alitas.jpg",
+      "PackagePath": "staticwebassets\\img\\alitas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\img\\chuzo.jpg",
+      "PackagePath": "staticwebassets\\img\\chuzo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\img\\hamburguesa.jpg",
+      "PackagePath": "staticwebassets\\img\\hamburguesa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\img\\perro.jpg",
+      "PackagePath": "staticwebassets\\img\\perro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\img\\pizza.jpg",
+      "PackagePath": "staticwebassets\\img\\pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\img\\quesadilla.jpg",
+      "PackagePath": "staticwebassets\\img\\quesadilla.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\img\\salchipapa.jpg",
+      "PackagePath": "staticwebassets\\img\\salchipapa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\package-lock.json",
+      "PackagePath": "staticwebassets\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\package.json",
+      "PackagePath": "staticwebassets\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\services\\authService.js",
+      "PackagePath": "staticwebassets\\services\\authService.js"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\services\\pedidoService.js",
+      "PackagePath": "staticwebassets\\services\\pedidoService.js"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\views\\admin.html",
+      "PackagePath": "staticwebassets\\views\\admin.html"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\views\\cliente.html",
+      "PackagePath": "staticwebassets\\views\\cliente.html"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\views\\cocinero.html",
+      "PackagePath": "staticwebassets\\views\\cocinero.html"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\views\\domiciliario.html",
+      "PackagePath": "staticwebassets\\views\\domiciliario.html"
+    },
+    {
+      "Id": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\wwwroot\\views\\login.html",
+      "PackagePath": "staticwebassets\\views\\login.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Backd_End_The_Blogs_Of_The_U.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Backd_End_The_Blogs_Of_The_U.props",
+      "PackagePath": "build\\Backd_End_The_Blogs_Of_The_U.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Backd_End_The_Blogs_Of_The_U.props",
+      "PackagePath": "buildMultiTargeting\\Backd_End_The_Blogs_Of_The_U.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Backd_End_The_Blogs_Of_The_U.props",
+      "PackagePath": "buildTransitive\\Backd_End_The_Blogs_Of_The_U.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

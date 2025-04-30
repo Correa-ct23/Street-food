@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\Backd_End_The_Blogs_Of_The_U.csproj": {}
+    "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\Backd_End_The_Blogs_Of_The_U.csproj": {}
   },
   "projects": {
-    "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\Backd_End_The_Blogs_Of_The_U.csproj": {
+    "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\Backd_End_The_Blogs_Of_The_U.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\Backd_End_The_Blogs_Of_The_U.csproj",
+        "projectUniqueName": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\Backd_End_The_Blogs_Of_The_U.csproj",
         "projectName": "Backd_End_The_Blogs_Of_The_U",
-        "projectPath": "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\Backd_End_The_Blogs_Of_The_U.csproj",
-        "packagesPath": "C:\\Users\\janie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\obj\\",
+        "projectPath": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\Backd_End_The_Blogs_Of_The_U.csproj",
+        "packagesPath": "C:\\Users\\xiple\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\Backd_End_The_Blogs_Of_The_U\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\janie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\xiple\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\The_Blogs_Of_The_U.Domain.csproj": {
-                "projectPath": "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\The_Blogs_Of_The_U.Domain.csproj"
+              "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\The_Blogs_Of_The_U.Domain.csproj": {
+                "projectPath": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\The_Blogs_Of_The_U.Domain.csproj"
               },
-              "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Infrastructure\\The_Blogs_Of_The_U.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Infrastructure\\The_Blogs_Of_The_U.Infrastructure.csproj"
+              "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Infrastructure\\The_Blogs_Of_The_U.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Infrastructure\\The_Blogs_Of_The_U.Infrastructure.csproj"
               }
             }
           }
@@ -121,21 +117,17 @@
         }
       }
     },
-    "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\The_Blogs_Of_The_U.Domain.csproj": {
+    "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\The_Blogs_Of_The_U.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\The_Blogs_Of_The_U.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\The_Blogs_Of_The_U.Domain.csproj",
         "projectName": "The_Blogs_Of_The_U.Domain",
-        "projectPath": "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\The_Blogs_Of_The_U.Domain.csproj",
-        "packagesPath": "C:\\Users\\janie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\obj\\",
+        "projectPath": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\The_Blogs_Of_The_U.Domain.csproj",
+        "packagesPath": "C:\\Users\\xiple\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\janie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\xiple\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -228,21 +220,17 @@
         }
       }
     },
-    "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Infrastructure\\The_Blogs_Of_The_U.Infrastructure.csproj": {
+    "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Infrastructure\\The_Blogs_Of_The_U.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Infrastructure\\The_Blogs_Of_The_U.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Infrastructure\\The_Blogs_Of_The_U.Infrastructure.csproj",
         "projectName": "The_Blogs_Of_The_U.Infrastructure",
-        "projectPath": "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Infrastructure\\The_Blogs_Of_The_U.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\janie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Infrastructure\\The_Blogs_Of_The_U.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\xiple\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\janie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\xiple\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -257,8 +245,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\The_Blogs_Of_The_U.Domain.csproj": {
-                "projectPath": "C:\\Users\\janie\\source\\repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\The_Blogs_Of_The_U.Domain.csproj"
+              "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\The_Blogs_Of_The_U.Domain.csproj": {
+                "projectPath": "C:\\Users\\xiple\\Source\\Repos\\Street-food\\Street-food-backend\\The_Blogs_Of_The_U.Domain\\The_Blogs_Of_The_U.Domain.csproj"
               }
             }
           }
